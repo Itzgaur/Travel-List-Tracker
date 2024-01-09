@@ -1,3 +1,9 @@
+![image](https://github.com/Itzgaur/Travel-List-Tracker/assets/105581908/43a124f2-9b5c-4690-a409-420bd4e689b1)# Initial Look of the project:
+
+![image](https://github.com/Itzgaur/Travel-List-Tracker/assets/105581908/ec4ef18f-a3fc-4c18-aeb5-15a85c3c561c)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
